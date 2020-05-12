@@ -1,0 +1,2 @@
+# WindowsFormsSoSo
+WPF is better
